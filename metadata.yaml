@@ -1,0 +1,42 @@
+_repo: Los-espectros--Novelas-breves_29799
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tasin, N. (Nicolás)
+    aliases:
+    - Tasin, N. (Nicolas)
+    - Tasin, Nicolás
+    gutenberg_agent_id: '42541'
+    url: http://www.gutenberg.org/2009/agents/42541
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Andreev, Leonid Nikolaevich
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: ''
+gutenberg_issued: '2009-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29799'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Russian -- Translations into Spanish'
+- !lcsh 'Fiction'
+- !lcc 'PG'
+tableOfContents: Los espectros -- El honor -- Cristianos -- Ben-tovit -- Un hombre
+  original -- ¡No hay perdón! -- Las bellas sabinas.
+title: 'Los espectros: Novelas breves'
+url: http://www.gutenberg.org/ebooks/29799
